@@ -1,5 +1,6 @@
-SITE: 
+Fonte de dados abertos em CSV:
 https://www.dadosmundiais.com/downloads/
 
-IATA:  International Air Transport Association
-ICAO: International Civil Aviation Organization
+Dados abertos do Governo Brasileiro: (Vários tipos de arquivos)
+
+https://dados.gov.br/dados/conjuntos-dados/
